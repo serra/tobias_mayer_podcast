@@ -1,0 +1,5 @@
+# This directory is used to store downloaded audio files.
+# No need to version these files, but our scripts assume
+# that this folder exists.
+*.mp3
+*.m4a

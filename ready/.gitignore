@@ -1,0 +1,5 @@
+# This directory is used to store processed audio files,
+# that are ready for being published.
+# No need to version these files, but our scripts assume
+# that this folder exists
+*.mp3

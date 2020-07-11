@@ -1,4 +1,5 @@
 from datetime import date
+import requests
 
 JAN = 1
 FEB = 2
@@ -127,12 +128,26 @@ tracks = [
     [1, "tps_av/coda.m4a", "", "Coda", 0, None]
 ]
 
-base_url = "https:#tobiasmayer.uk/works/the-peoples-scrum/"
+base_url = "https://tobiasmayer.uk/works/the-peoples-scrum/"
 
 
 def download_file(source):
-    pass
+    target_file = source
+    url = f"{base_url}/{source}"
+    r = requests.get(url, allow_redirects=True)
+    open(target_file, 'wb').write(r.content)
 
 
 def download_all_files():
-    pass
+    for track in tracks:
+        if track[1] != NO_MEDIA:
+            source = track[1]
+            print(f'downloading {source} ... ')
+            download_file(source)
+
+
+if __name__ == "__main__":
+    download_all_files()
+    print("Done!")
+
+# outro taken from https://freesound.org/people/theojt/sounds/510958/
