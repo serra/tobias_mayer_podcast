@@ -25,7 +25,6 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
 > After all chapters are done we can do the three appendices, 
 > and finish on the Afterword by Lyssa.
 
-tobias_mayer_podcast$ /Users/marijn/.virtualenvs/tobias_mayer_podcast-NVn6xegt/bin/python /Users/marijn/dev/tobias_mayer_podcast/tracks.py
  * [x]  Prelude (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/prelude.m4a))
  * [x]  Introduction to Audio Edition (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/intro2.m4a))
  * [x]  Foreword by Ron Jeffries (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/foreword.m4a))
