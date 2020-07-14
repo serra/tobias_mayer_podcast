@@ -51,6 +51,7 @@ class TrackView():
         self.title = track[3]
         self.display_order = track[4]
         self.original_publish_date = track[5]
+        self.no_media = track[1] == NO_MEDIA
 
 
 tracks = [
@@ -165,8 +166,11 @@ def download_all_files():
 def tracks_to_markdown():
     for track in tracks:
         vw = TrackView(track)
-        print(
-            f" * [ ] {vw.title} (part {vw.part} | [audio]({vw.original_audio_file_url}))")
+        if vw.no_media:
+            print(f" * *{vw.title}*")
+        else:
+            print(
+                f" * [ ] {vw.chapter_number} {vw.title} {vw.original_publish_date} | [audio]({vw.original_audio_file_url}))")
 
 
 if __name__ == "__main__":
