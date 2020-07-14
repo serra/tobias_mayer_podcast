@@ -26,14 +26,14 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
 > and finish on the Afterword by Lyssa.
 
 tobias_mayer_podcast$ /Users/marijn/.virtualenvs/tobias_mayer_podcast-NVn6xegt/bin/python /Users/marijn/dev/tobias_mayer_podcast/tracks.py
- * [*]  Prelude None | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/prelude.m4a))
- * [*]  Introduction to Audio Edition None | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/intro2.m4a))
- * [*]  Foreword by Ron Jeffries None | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/foreword.m4a))
+ * [x]  Prelude None | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/prelude.m4a))
+ * [x]  Introduction to Audio Edition None | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/intro2.m4a))
+ * [x]  Foreword by Ron Jeffries None | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/foreword.m4a))
  
  * *People &mdash; The Intrepid Explorers*
- * [*] 1 A New Way of Thinking 2008-03-22 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter01.m4a))
- * [*] 2 The Heart of Scrum 2009-08-03 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter02.m4a))
- * [*] 3 Self-Organization and Anarchy 2007-09-13 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter03.m4a))
+ * [x] 1 A New Way of Thinking 2008-03-22 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter01.m4a))
+ * [x] 2 The Heart of Scrum 2009-08-03 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter02.m4a))
+ * [x] 3 Self-Organization and Anarchy 2007-09-13 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter03.m4a))
  * [ ] 4 Shock Therapy...or Compassion? 2008-09-15 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter04.m4a))
  * [ ] 5 Software Artisans 2005-12-31 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter05.m4a))
  * [ ] 6 Distributed Teams are not Teams 2008-07-13 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter06.m4a))
@@ -46,14 +46,14 @@ tobias_mayer_podcast$ /Users/marijn/.virtualenvs/tobias_mayer_podcast-NVn6xegt/b
  * [ ] 13 The People&#700;s Scrum 2009-12-06 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter13.m4a))
 
  * *Process &mdash; The Ragged Pathway*
- * [*] 14 Scrum: Its Place in the World 2008-09-26 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter14.m4a))
- * [*] 15 In Praise of Process * 2012-01-06 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter15.m4a))
- * [*] 16 Deadlines Kill * 2012-11-10 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter16.m4a))
+ * [x] 14 Scrum: Its Place in the World 2008-09-26 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter14.m4a))
+ * [x] 15 In Praise of Process * 2012-01-06 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter15.m4a))
+ * [x] 16 Deadlines Kill * 2012-11-10 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter16.m4a))
  * [ ] 17 The Robustness Index * 2012-08-27 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter17.m4a))
  * [ ] 18 The Bug Myth * 2012-12-12 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter18.m4a))
  * [ ] 19 Beyond Estimation 2011-01-24 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter19.m4a))
  * [ ] 20 Scrum Roles: An Abstraction 2009-01-08 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter20.m4a))
- * [*] 21 Scrum Doesn&#700;t Do Anything 2009-01-11 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter21.m4a))
+ * [x] 21 Scrum Doesn&#700;t Do Anything 2009-01-11 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter21.m4a))
  * [ ] 22 Marriage, But 2011-05-03 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter22.m4a))
  * [ ] 23 Don&#700;t Have Meetings 2011-03-25 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter23.m4a))
  * [ ] 24 Timebox != Commitment 2012-04-20 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter24.m4a))
@@ -61,10 +61,10 @@ tobias_mayer_podcast$ /Users/marijn/.virtualenvs/tobias_mayer_podcast-NVn6xegt/b
  * [ ] 26 The Soul of Scrum 2012-02-15 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter26.m4a))
  
  * *Culture &mdash; The Promised Land*
- * [*] 27 Catastrophic Organizational Change 2005-12-05 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter27.m4a))
- * [*] 28 Agile Anarchy 2009-06-10 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter28.m4a))
- * [*] 29 Riding a Dinosaur 2009-03-11 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter29.m4a))
- * [*] 30 Corporate Oppression 2009-03-16 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter30.m4a))
+ * [x] 27 Catastrophic Organizational Change 2005-12-05 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter27.m4a))
+ * [x] 28 Agile Anarchy 2009-06-10 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter28.m4a))
+ * [x] 29 Riding a Dinosaur 2009-03-11 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter29.m4a))
+ * [x] 30 Corporate Oppression 2009-03-16 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter30.m4a))
  * [ ] 31 Organizational Blobs 2005-12-15 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter31.m4a))
  * [ ] 32 In a Roundabout Sort of Way 2009-08-18 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter32.m4a))
  * [ ] 33 The Change Agent&#700;s Blade is Thin and Keen 2005-12-23 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter33.m4a))
