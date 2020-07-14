@@ -75,7 +75,7 @@ tobias_mayer_podcast$ /Users/marijn/.virtualenvs/tobias_mayer_podcast-NVn6xegt/b
  * [ ] 38 Seeking Consent (2012-08-18 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter38.m4a))
  * [ ] 39 The Spirit of Change (2012-01-01 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter39.m4a))
  
- * *Appendices & Afterword *
+ * *Appendices & Afterword*
  * [ ]  I. Simple Scrum (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix1.m4a))
  * [ ]  II. Mindful Scrum (describe this meadow) (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix2.m4a))
  * [ ]  III. The Liberated Scrum Master (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix3.m4a))

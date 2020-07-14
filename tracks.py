@@ -170,7 +170,7 @@ def tracks_to_markdown():
             print(f" * *{vw.title}*")
         else:
             print(
-                f" * [ ] {vw.chapter_number} {vw.title} {vw.original_publish_date} | [audio]({vw.original_audio_file_url}))")
+                f" * [ ] {vw.chapter_number} {vw.title} ({vw.original_publish_date} | [audio]({vw.original_audio_file_url}))")
 
 
 if __name__ == "__main__":
