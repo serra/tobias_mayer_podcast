@@ -35,7 +35,7 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
  * [x] 3 Self-Organization and Anarchy (2007-09-13 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter03.m4a))
  * [ ] 4 Shock Therapy...or Compassion? (2008-09-15 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter04.m4a))
  * [ ] 5 Software Artisans (2005-12-31 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter05.m4a))
- * [ ] 6 Distributed Teams are not Teams (2008-07-13 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter06.m4a))
+ * [x] 6 Distributed Teams are not Teams (2008-07-13 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter06.m4a))
  * [ ] 7 With Great Power (2006-08-02 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter07.m4a))
  * [ ] 8 Unearthing Impediments by Doing Less (2009-06-23 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter08.m4a))
  * [ ] 9 Test(osterone)-Infected Developers (2009-06-25 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter09.m4a))
