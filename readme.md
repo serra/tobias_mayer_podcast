@@ -42,7 +42,7 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
  * [x] 10 Paying Off Technical Debt (2012-02-12 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter10.m4a))
  * [x] 11 The Agile Explorer (2012-04-19 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter11.m4a))
  * [x] 12 Heartfelt Emotionalism is the New Hardcore (2009-06-14 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter12.m4a))
- * [ ] 13 The People&#700;s Scrum (2009-12-06 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter13.m4a))
+ * [x] 13 The People&#700;s Scrum (2009-12-06 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter13.m4a))
 
  * *Process &mdash; The Ragged Pathway*
  * [x] 14 Scrum: Its Place in the World (2008-09-26 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter14.m4a))
@@ -57,7 +57,7 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
  * [x] 23 Don&#700;t Have Meetings (2011-03-25 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter23.m4a))
  * [x] 24 Timebox != Commitment (2012-04-20 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter24.m4a))
  * [x] 25 The Retrospective is Now (2011-01-22 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter25.m4a))
- * [ ] 26 The Soul of Scrum (2012-02-15 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter26.m4a))
+ * [x] 26 The Soul of Scrum (2012-02-15 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter26.m4a))
  
  * *Culture &mdash; The Promised Land*
  * [x] 27 Catastrophic Organizational Change (2005-12-05 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter27.m4a))
@@ -72,7 +72,7 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
  * [x] 36 Don&#700;t Build Teams (2012-02-26 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter36.m4a))
  * [x] 37 Scaling Scrum: The Alcoholic Perspective (2008-04-09 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter37.m4a))
  * [x] 38 Seeking Consent (2012-08-18 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter38.m4a))
- * [ ] 39 The Spirit of Change (2012-01-01 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter39.m4a))
+ * [x] 39 The Spirit of Change (2012-01-01 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter39.m4a))
  
  * *Appendices & Afterword*
  * [ ]  I. Simple Scrum (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix1.m4a))
