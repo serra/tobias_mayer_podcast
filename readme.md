@@ -75,10 +75,10 @@ The actual release schedule is maintained in the [Episode list on Anchor.fm](htt
  * [x] 39 The Spirit of Change (2012-01-01 | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/chapter39.m4a))
  
  * *Appendices & Afterword*
- * [ ]  I. Simple Scrum (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix1.m4a))
- * [ ]  II. Mindful Scrum (describe this meadow) (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix2.m4a))
- * [ ]  III. The Liberated Scrum Master (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix3.m4a))
- * [ ]  Afterword by Lyssa Adkins (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/afterword.m4a))
+ * [x]  I. Simple Scrum (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix1.m4a))
+ * [x]  II. Mindful Scrum (describe this meadow) (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix2.m4a))
+ * [x]  III. The Liberated Scrum Master (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/appendix3.m4a))
+ * [x]  Afterword by Lyssa Adkins (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/afterword.m4a))
  * [ ]  Coda (-- | [audio](https://tobiasmayer.uk/works/the-peoples-scrum//tps_av/coda.m4a))
 
 ## Technical notes
